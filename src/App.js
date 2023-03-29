@@ -7,7 +7,7 @@ import ProfilePhoto from './Component/Profilephoto';
 function App() {
   return (
     <div className="App">
-   <h1>welcome</h1>
+   <h1>Welcome</h1>
    <ProfilePhoto/>
     <FullName/>
     <Address/>
